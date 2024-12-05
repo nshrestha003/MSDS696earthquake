@@ -17,6 +17,7 @@ depth: The depth where the earthquake begins to rupture
 latitude / longitude: coordinate system by means of which the position or location of any place on Earth's surface can be determined and described
 location: location within the country(description from earthquake dataset by Chirag Chauhan)
 
+EDA: the EDA shows the alerts level and magnitude, number of earthquakes, geo loaction plot of earthquakes that occoured.
 Model and result: the inital choice(Knn Classifier) gave the prediction accuracy of 78%. looking into other model, Decision Tree Classifier had a better outcome of 91%.
     Tried random forest classifier and result came to 93%. dropped less important column and tried RF anf result came to 100%
 
